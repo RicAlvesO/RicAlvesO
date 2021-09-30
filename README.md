@@ -4,7 +4,7 @@ I’m currently a Software Engeneering student at _Universidade do Minho, Portug
 
 My main interests are Coding, Programming and Drawing.
 
-You can reach me by email at ricaoimp@gmail.com
+Also if you wanna check here are my [**.dotfiles**](https://github.com/RicAlvesO/Dotfiles).
 
 ## 📊 My GitHub Status
 
@@ -19,7 +19,7 @@ You can reach me by email at ricaoimp@gmail.com
 - Python
 - JavaScript (Just started learning)
 
-## Some Of My Projects
+## 📂 Some Of My Projects
 
 - [**Cypher P.E.**](https://github.com/RicAlvesO/Cypher-Password-Encryptor) - A password encryptor written in Python.
-- [**Magic 8Ball**](https://github.com/RisingFisan/WALL-E) - A GUI magic 8Ball;
+- [**Magic 8Ball**](https://github.com/RicAlvesO/Python-Magic-8Ball) - A GUI magic 8Ball;
