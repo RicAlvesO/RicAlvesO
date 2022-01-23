@@ -18,7 +18,7 @@ Also if you wanna check here are my [**.dotfiles**](https://github.com/RicAlvesO
 - Haskell
 - Python
 - Shell
-- JavaScript (Just started learning)
+- JavaScript
 
 ## 📂 Some Of My Projects
 
