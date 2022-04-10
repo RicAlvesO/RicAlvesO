@@ -8,9 +8,9 @@ Also if you wanna check here are my [**.dotfiles**](https://github.com/RicAlvesO
 
 ## 📊 My GitHub Status
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RicAlvesO&count_private=true&show_icons=true&theme=synthwave&hide=contribs&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RicAlvesO&count_private=true&show_icons=true&theme=github_dark&hide=contribs&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicAlvesO&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicAlvesO&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 My Languages
 
