@@ -4,7 +4,7 @@ I’m currently a Software Engeneering student at _Universidade do Minho, Portug
 
 My main interests are Coding, Programming and Drawing.
 
-Also if you wanna check here are my [**.dotfiles**](https://github.com/RicAlvesO/Dotfiles).
+Also if you wanna check here are my [**.dotfiles**](https://github.com/RicAlvesO/Dotfiles) and my [**socials**](https://ricalveso.github.io/MyLinks/).
 
 ## 📊 My GitHub Status
 
